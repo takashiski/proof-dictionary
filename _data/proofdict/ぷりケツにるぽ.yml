@@ -1,0 +1,14 @@
+id: 01DZKT5S029XPFZGEES0ZHQBCH
+description: ''
+expected: ぷりケツにるぽ
+patterns:
+  - /(にるぽ|ニルポ|nillpo)/
+allows: []
+specs:
+  - from: ニルポ
+    to: ぷりケツにるぽ
+  - from: にるぽ
+    to: ぷりケツにるぽ
+  - from: nillpo
+    to: ぷりケツにるぽ
+tags: []

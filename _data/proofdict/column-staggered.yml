@@ -1,0 +1,12 @@
+id: 01DZKSZWWE0R9YKBX47PHB7JMN
+description: ''
+expected: column-staggered
+patterns:
+  - /column(er|)-staggered/i
+allows: []
+specs:
+  - from: Column-staggered
+    to: column-staggered
+  - from: columner-staggered
+    to: column-staggered
+tags: []

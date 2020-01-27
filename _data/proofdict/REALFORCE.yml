@@ -1,0 +1,14 @@
+id: 01DZKTHHT3C6NRJ3FC7N1T01KV
+description: ''
+expected: REALFORCE
+patterns:
+  - /realforce/i
+allows: []
+specs:
+  - from: Realforce
+    to: REALFORCE
+  - from: realforce
+    to: REALFORCE
+  - from: RealForce
+    to: REALFORCE
+tags: []

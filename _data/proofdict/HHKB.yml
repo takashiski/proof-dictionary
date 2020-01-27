@@ -1,0 +1,14 @@
+id: 01DZKTHHT3C6NRJ3FC7N1T01KV
+description: ''
+expected: HHKB
+patterns:
+  - /(hhkb|hhk)/i
+allows: []
+specs:
+  - from: hhkb
+    to: HHKB
+  - from: hhk
+    to: HHKB
+  - from: HHK
+    to: HHKB
+tags: []

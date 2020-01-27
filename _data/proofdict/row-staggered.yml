@@ -1,0 +1,12 @@
+id: 01DZKSZWWE0R9YKBX47PHB7JMN
+description: ''
+expected: row-staggered
+patterns:
+  - /row-staggered/i
+allows: []
+specs:
+  - from: Row-staggered
+    to: row-staggered
+  - from: Row-Staggered
+    to: row-staggered
+tags: []

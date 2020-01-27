@@ -1,0 +1,14 @@
+id: 01DZKT5S029XPFZGEES0ZHQBCH
+description: ''
+expected: QMK
+patterns:
+  - /qmk/i
+allows: []
+specs:
+  - from: QMK
+    to: QMK
+  - from: qmk
+    to: QMK
+  - from: Qmk
+    to: QMK
+tags: []

@@ -1,0 +1,12 @@
+id: 01DZKTHHT3C6NRJ3FC7N1T01KV
+description: ''
+expected: Ergo
+patterns:
+  - /ergo/i
+allows: []
+specs:
+  - from: ergo
+    to: Ergo
+  - from: ERGO
+    to: Ergo
+tags: []
